@@ -120,12 +120,6 @@ Ejemplo de respuesta:
 ---
 
 ## 🎥 Demo (pendiente de video)
-En este espacio puedes colocar un **link al video corto (máx 5 min)** mostrando:
-
-- Creación, actualización y eliminación de productos.
-- Validaciones de DTOs.
-- Reglas de negocio en acción.
-- Búsqueda avanzada con paginación y filtros.
 
 ---
 
